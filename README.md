@@ -2,7 +2,7 @@
 
 ![3d AI Video Generator Banner](https://veoaifree.com/github/img_1763260140_5945.jpg)
 
-> Free AI Tool → [https://veoaifree.com/3d-AI -video-generator/](https://veoaifree.com/3d-AI -video-generator/)
+> Free AI Tool → [https://veoaifree.com/3d-ai-video-generator/](https://veoaifree.com/3d-ai-video-generator/)
 
 # FAQ
 
@@ -106,10 +106,9 @@ The 3D AI Video Generator stands out in the market due to its combination of hig
 ## MIT License
 MIT License
 
-Copyright (c) [year] [Your Name or Organization]
+Copyright (c) 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 ...
 
-[Complete the MIT License as required]
